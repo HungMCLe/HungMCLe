@@ -1,6 +1,5 @@
-### Hi there 👋
 
-### Hung Le
+# Hung Le
 
 ## About Me 📌
 I'm a passionate Data Scientist with a go-getter attitude. Whatever it is, the right attitude for me is: "I will find out!"
