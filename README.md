@@ -3,7 +3,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Machine+Learning+Developer&size=22)
 
-![Random Cat](https://api.thecatapi.com/v1/images/search?format=src&size=small)
+![Random Cat](https://cataas.com/cat)
 
 ## About Me 📌
 I'm a passionate Data Scientist with a go-getter attitude. Whatever it is, the right attitude for me is: "I will find out!"
