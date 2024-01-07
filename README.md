@@ -15,13 +15,30 @@ I'm a passionate Data Scientist with a go-getter attitude. Whatever it is, the r
 - ⚡ Fun fact: .
 
 
+## Languages and Tools:
 
-
-### Languages and Tools:
 <p>
   <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <!-- Add other skills with respective icons like R, SQL, etc. -->
+  <!-- R -->
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+  <!-- Terminal -->
+  <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Terminal"/>
+  <!-- SQL -->
+  <img src="https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="SQL"/>
+  <!-- SQL Server -->
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+  <!-- Apache Kafka -->
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"/>
+  <!-- PySpark -->
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark"/>
+  <!-- Spark -->
+  <img src="https://img.shields.io/badge/Spark-F47D30?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark"/>
+  <!-- Apache -->
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/>
+  <!-- Cassandra -->
+  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" alt="Cassandra"/>
+  <!-- Add other languages and tools as needed -->
 </p>
 
 ## Libraries and Frameworks:
