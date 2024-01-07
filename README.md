@@ -39,29 +39,36 @@ I'm a passionate Data Scientist with a go-getter attitude. Whatever it is, the r
 
 ## Libraries and Frameworks:
 
+# Machine Learning Full Stack Engineer Toolkit
+
+## Libraries and Frameworks:
+
 <p>
   <!-- Pandas -->
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <!-- NumPy -->
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
   <!-- Scrapy -->
-  <img src="https://img.shields.io/badge/Scrapy-627D98?style=for-the-badge&logo=scrapy&logoColor=white" alt="Scrapy"/>
-  <!-- BeautifulSoup -->
-  <img src="https://img.shields.io/badge/BeautifulSoup-39477F?style=for-the-badge&logo=beautifulsoup&logoColor=white" alt="BeautifulSoup"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scrapy/scrapy-original-wordmark.svg" alt="Scrapy" width="40" height="40"/>
+  <!-- BeautifulSoup (No distinct icon available, using generic HTML5 as a placeholder) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="BeautifulSoup (HTML5 used as placeholder)" width="40" height="40"/>
   <!-- Apache Kafka -->
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="Apache Kafka" width="40" height="40"/>
   <!-- Scikit-learn -->
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original-wordmark.svg" alt="Scikit-learn" width="40" height="40"/>
   <!-- TensorFlow -->
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="TensorFlow" width="40" height="40"/>
   <!-- Keras -->
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original-wordmark.svg" alt="Keras" width="40" height="40"/>
   <!-- PyTorch -->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <!-- XGBoost -->
-  <img src="https://img.shields.io/badge/XGBoost-29A841?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  <!-- XGBoost (No distinct icon available, using generic placeholder) -->
+  <img src="https://via.placeholder.com/40?text=+" alt="XGBoost (Placeholder)" width="40" height="40"/>
   <!-- Add other libraries and frameworks as needed -->
 </p>
+
+*Note: Some icons like BeautifulSoup and XGBoost don't have distinct icons in the Devicon library. Placeholders or related icons are used
+
 
 
 <!--
