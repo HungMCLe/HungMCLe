@@ -31,7 +31,7 @@ I'm a passionate Data Scientist with a go-getter attitude. Whatever it is, the r
   <!-- Apache Kafka -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="Apache Kafka" width="40" height="40"/>
   <!-- Apache (representing Apache Spark and PySpark) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="Apache" width="40" height="40"/>
+  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg](https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg)" alt="Apache" width="40" height="40"/>
   <!-- Cassandra -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-original.svg" alt="Cassandra" width="40" height="40"/>
   <!-- Add other languages and tools as needed -->
