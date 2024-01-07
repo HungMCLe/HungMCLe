@@ -2,6 +2,15 @@
 
 ### Hung Le
 
+## About Me 📌
+I'm a passionate Data Scientist with a go-getter attitude. Whatever it is, the right attitude for me is: "I will find out!"
+
+- 🎓 I hold a Master in Data Science from Harvard University.
+- 🔭 I’m currently working on Route and data optimization for Mainstreme logistics companies.
+- 🌱 I’m currently learning D3, differential topology and functional analysis
+
+- ⚡ Fun fact: .
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Machine+Learning+Developer)
 
 ### Languages and Tools:
