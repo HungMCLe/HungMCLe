@@ -5,7 +5,7 @@
 ## About Me 📌
 I'm a passionate Data Scientist with a go-getter attitude. Whatever it is, the right attitude for me is: "I will find out!"
 
-- 🎓 I hold a Master in Data Science from Harvard University.
+- 🎓 I'm working on my Master in Data Science from Harvard University (Expected 2025).
 - 🔭 I’m currently working on Route and data optimization for Mainstreme logistics companies.
 - 🌱 I’m currently learning D3, differential topology and functional analysis
 
