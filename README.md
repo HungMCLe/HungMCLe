@@ -10,7 +10,8 @@ I'm a passionate Data Scientist with a go-getter attitude. Whatever it is, the r
 
 - ⚡ Fun fact: .
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Machine+Learning+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Machine+Learning+Developer&size=22)
+
 
 ### Languages and Tools:
 <p>
