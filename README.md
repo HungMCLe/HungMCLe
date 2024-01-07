@@ -24,15 +24,30 @@ I'm a passionate Data Scientist with a go-getter attitude. Whatever it is, the r
   <!-- Add other skills with respective icons like R, SQL, etc. -->
 </p>
 
-### Libraries and Frameworks:
+## Libraries and Frameworks:
+
 <p>
   <!-- Pandas -->
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <!-- NumPy -->
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <!-- Scrapy -->
+  <img src="https://img.shields.io/badge/Scrapy-627D98?style=for-the-badge&logo=scrapy&logoColor=white" alt="Scrapy"/>
+  <!-- BeautifulSoup -->
+  <img src="https://img.shields.io/badge/BeautifulSoup-39477F?style=for-the-badge&logo=beautifulsoup&logoColor=white" alt="BeautifulSoup"/>
+  <!-- Apache Kafka -->
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"/>
   <!-- Scikit-learn -->
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <!-- Add other libraries and frameworks like TensorFlow, Keras, etc. -->
+  <!-- TensorFlow -->
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <!-- Keras -->
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <!-- PyTorch -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <!-- XGBoost -->
+  <img src="https://img.shields.io/badge/XGBoost-29A841?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/>
+  <!-- Add other libraries and frameworks as needed -->
 </p>
 
 
