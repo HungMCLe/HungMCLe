@@ -1,7 +1,7 @@
 
 # Hung Le
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Machine+Learning+Developer&size=22)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Machine+Learning+Developer+""+&size=22)
 
 ![Random Cat](https://cataas.com/cat?time={{CURRENT_TIMESTAMP}})
 
