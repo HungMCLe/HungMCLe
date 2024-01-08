@@ -10,9 +10,9 @@ I'm a passionate Data Scientist with a go-getter attitude. Whatever it is, the r
 
 - 🎓 I'm working on my Master in Data Science from Harvard University (Expected 2025).
 - 🔭 I’m currently working on Route and data optimization for Mainstreme logistics companies.
-- 🌱 I’m currently learning D3, differential topology and functional analysis
+- 🌱 I’m currently learning D3, differential topology and functional analysis... tba results May 2025
 
-- ⚡ Fun fact: .
+- ⚡ (Fun?) fact: I can twist my hand 180 degree on a flat surface. Isn't useful for coding. Super sick party trick (or is it?)
 
 
 ## Languages and Tools:
