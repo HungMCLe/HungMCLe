@@ -3,8 +3,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Machine+Learning+Developer+""+&size=22)
 
-![Random Cat](https://cataas.com/cat?time={{CURRENT_TIMESTAMP}})
-
 ## About Me 📌
 I'm a passionate Data Scientist with a go-getter attitude. Whatever it is, the right attitude for me is: "I will find out!"
 
@@ -65,6 +63,8 @@ I'm a passionate Data Scientist with a go-getter attitude. Whatever it is, the r
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
 </p>
 
+
+![Random Cat](https://cataas.com/cat?time={{CURRENT_TIMESTAMP}})
 
 
 <!--
