@@ -64,6 +64,9 @@ I'm a passionate Data Scientist with a go-getter attitude. Whatever it is, the r
 </p>
 
 
+Random Cat Photo! Refresh based on your current timestamp (cataas)
+
+
 ![Random Cat](https://cataas.com/cat?time={{CURRENT_TIMESTAMP}})
 
 
